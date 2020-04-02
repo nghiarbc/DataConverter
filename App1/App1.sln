@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.Android", "App1\App1.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.iOS", "App1\App1.iOS\App1.iOS.csproj", "{BB0B49E4-BE7C-45C7-BA9C-501AABCA0EC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1\App1\App1.csproj", "{60ED1D60-27A6-468E-AAF0-0372B71579E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConverter", "App1\App1\DataConverter.csproj", "{60ED1D60-27A6-468E-AAF0-0372B71579E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
